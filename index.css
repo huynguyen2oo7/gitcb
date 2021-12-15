@@ -3,6 +3,7 @@ body{
 }
 p{
     size: 20px;
+    color: red;
 }
 h1{
     color: black;
